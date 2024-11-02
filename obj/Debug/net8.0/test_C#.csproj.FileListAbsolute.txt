@@ -1,0 +1,14 @@
+C:\Users\badboy_17\Desktop\test_C#\bin\Debug\net8.0\test_C#.exe
+C:\Users\badboy_17\Desktop\test_C#\bin\Debug\net8.0\test_C#.deps.json
+C:\Users\badboy_17\Desktop\test_C#\bin\Debug\net8.0\test_C#.runtimeconfig.json
+C:\Users\badboy_17\Desktop\test_C#\bin\Debug\net8.0\test_C#.dll
+C:\Users\badboy_17\Desktop\test_C#\bin\Debug\net8.0\test_C#.pdb
+C:\Users\badboy_17\Desktop\test_C#\obj\Debug\net8.0\test_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badboy_17\Desktop\test_C#\obj\Debug\net8.0\test_C#.AssemblyInfoInputs.cache
+C:\Users\badboy_17\Desktop\test_C#\obj\Debug\net8.0\test_C#.AssemblyInfo.cs
+C:\Users\badboy_17\Desktop\test_C#\obj\Debug\net8.0\test_C#.csproj.CoreCompileInputs.cache
+C:\Users\badboy_17\Desktop\test_C#\obj\Debug\net8.0\test_C#.dll
+C:\Users\badboy_17\Desktop\test_C#\obj\Debug\net8.0\refint\test_C#.dll
+C:\Users\badboy_17\Desktop\test_C#\obj\Debug\net8.0\test_C#.pdb
+C:\Users\badboy_17\Desktop\test_C#\obj\Debug\net8.0\test_C#.genruntimeconfig.cache
+C:\Users\badboy_17\Desktop\test_C#\obj\Debug\net8.0\ref\test_C#.dll
